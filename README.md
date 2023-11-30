@@ -1,5 +1,5 @@
 # Calculator 
-Live Demo: //calculator242.netlify.app/
+Live Demo:  https://calculator242.netlify.app/
 
 # Overview
 This project is a simple calculator built with HTML, CSS, and JavaScript. It is designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division. The calculator has a user-friendly interface and works well on both desktop and mobile browsers.
